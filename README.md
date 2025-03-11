@@ -1,9 +1,12 @@
 <h1 align="center">☕ yEndersz</h1>
+
 ---
+
 <p align="center">🍱 Code-driven problem solver, fueled by coffee and late nights. Also experienced in Minecraft server development, 
 custom plugin configuration, and in-game economy design and balancing.</p>
 
 # My Skills
+
 ---
 
 #### Main Stack:
