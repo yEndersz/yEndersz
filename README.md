@@ -3,7 +3,7 @@
 <p align="center">🍱 Code-driven problem solver, fueled by coffee and late nights. Also experienced in Minecraft server development, 
 custom plugin configuration, and in-game economy design and balancing.</p>
 
-## My Skills
+### My Skills
 
 ---
 
@@ -31,7 +31,7 @@ custom plugin configuration, and in-game economy design and balancing.</p>
 &nbsp;
 &nbsp;
 
-## ➤ Contacts:
+### ➤ Contacts:
 
 <div> 
 <a href="https://www.instagram.com/gabrielenderle_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
