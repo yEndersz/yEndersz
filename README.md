@@ -3,8 +3,9 @@
 <p align="center">🍱 Code-driven problem solver, fueled by coffee and late nights. Also experienced in Minecraft server development, 
 custom plugin configuration, and in-game economy design and balancing.</p>
 
-<h1> My Skills</h1>
+# My Skills
 ---
+
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
