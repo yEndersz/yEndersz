@@ -28,9 +28,6 @@ custom plugin configuration, and in-game economy design and balancing.</p>
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-&nbsp;
-&nbsp;
-
 ### ➤ Contacts:
 
 <div> 
