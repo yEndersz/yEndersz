@@ -3,7 +3,7 @@
 <p align="center">🍱 Code-driven problem solver, fueled by coffee and late nights. Also experienced in Minecraft server development, 
 custom plugin configuration, and in-game economy design and balancing.</p>
 
-### My Skills
+<h1> My Skills</h1>
 ---
 #### Main Stack:
 
